@@ -1,0 +1,14 @@
+C:\Users\pojag\socket_4\bin\Debug\net8.0\socket_4.exe
+C:\Users\pojag\socket_4\bin\Debug\net8.0\socket_4.deps.json
+C:\Users\pojag\socket_4\bin\Debug\net8.0\socket_4.runtimeconfig.json
+C:\Users\pojag\socket_4\bin\Debug\net8.0\socket_4.dll
+C:\Users\pojag\socket_4\bin\Debug\net8.0\socket_4.pdb
+C:\Users\pojag\socket_4\obj\Debug\net8.0\socket_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pojag\socket_4\obj\Debug\net8.0\socket_4.AssemblyInfoInputs.cache
+C:\Users\pojag\socket_4\obj\Debug\net8.0\socket_4.AssemblyInfo.cs
+C:\Users\pojag\socket_4\obj\Debug\net8.0\socket_4.csproj.CoreCompileInputs.cache
+C:\Users\pojag\socket_4\obj\Debug\net8.0\socket_4.dll
+C:\Users\pojag\socket_4\obj\Debug\net8.0\refint\socket_4.dll
+C:\Users\pojag\socket_4\obj\Debug\net8.0\socket_4.pdb
+C:\Users\pojag\socket_4\obj\Debug\net8.0\socket_4.genruntimeconfig.cache
+C:\Users\pojag\socket_4\obj\Debug\net8.0\ref\socket_4.dll
